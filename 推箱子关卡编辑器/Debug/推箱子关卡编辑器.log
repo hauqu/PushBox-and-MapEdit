@@ -1,0 +1,10 @@
+﻿  源.cpp
+C:\Users\ASUS\Desktop\vsPro\推箱子关卡编辑器\源.cpp(281,7): warning C4838:  从“double”转换到“float”需要收缩转换
+C:\Users\ASUS\Desktop\vsPro\推箱子关卡编辑器\源.cpp(281,7): warning C4244:  “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ASUS\Desktop\vsPro\推箱子关卡编辑器\源.cpp(282,7): warning C4838:  从“double”转换到“float”需要收缩转换
+C:\Users\ASUS\Desktop\vsPro\推箱子关卡编辑器\源.cpp(282,7): warning C4244:  “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ASUS\Desktop\vsPro\推箱子关卡编辑器\源.cpp(283,7): warning C4838:  从“double”转换到“float”需要收缩转换
+C:\Users\ASUS\Desktop\vsPro\推箱子关卡编辑器\源.cpp(283,7): warning C4244:  “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ASUS\Desktop\vsPro\推箱子关卡编辑器\源.cpp(284,7): warning C4838:  从“double”转换到“float”需要收缩转换
+C:\Users\ASUS\Desktop\vsPro\推箱子关卡编辑器\源.cpp(284,7): warning C4244:  “初始化”: 从“double”转换到“float”，可能丢失数据
+  推箱子关卡编辑器.vcxproj -> C:\Users\ASUS\Desktop\vsPro\推箱子关卡编辑器\Debug\推箱子关卡编辑器.exe
